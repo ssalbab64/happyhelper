@@ -1,4 +1,4 @@
- # 사이트 기능
+# 사이트 기능
  - 페트 검색, 속성별 필터링
     - [엑셀 시트](https://docs.google.com/spreadsheets/d/1k7lcibdGF4LHogpBInIhQBTBZFxgxvsUA1WnizydcEs/edit?usp=sharing)
  - 퀘스트 공략 (공식 홈피와 동일)
@@ -11,7 +11,7 @@
  - 지도 정리 (대륙 별 분류, 전체 지도에서 클릭)
  - 레이드 별 공략
 
- # 개발
+# 개발
  - HTTP+JS
    - Bootstrap CSS 라이브러리
    - JQuery
